@@ -1,2 +1,2 @@
-# deeppipe-demo
-DeepPipeDemo
+# mediapipe-demo
+MediaPipeDemo
